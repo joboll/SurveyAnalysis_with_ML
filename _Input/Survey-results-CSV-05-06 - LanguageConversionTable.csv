@@ -1,0 +1,98 @@
+Question #,EN,FR,DE,EN long
+2,Male,Masculin,Männlich,Male
+2,Female,Femme,Weiblich,Female
+2,Non-binary,Non binaire,Nicht-binär,Non-binary
+2,Prefer not to say,Ne souhaite pas répondre,Keine Angabe,Prefer not to say
+4,"less than 21,999","moins de 21,999",Weniger als 21.999,"less than 21,999"
+4,"22,000 - 35,999","22,000 - 35,999",22.000 - 35.999,"22,000 - 35,999"
+4,"36,000 - 54,999","36,000 - 54,999",36.000 - 54.999,"36,000 - 54,999"
+4,"55,000 - 71,999","55,000 - 71,999",55.000 - 71.999,"55,000 - 71,999"
+4,"72,000 or more","72,000 ou plus",72.000 oder mehr,"72,000 or more"
+4,Prefer not to say,Ne souhaite pas répondre,Keine Angabe,Prefer not to say
+7,Road,Vélo de route,Rennrad,Road bike
+7,Mountain,Vélo de montagne,Mountainbike,Mountain bike
+7,Hybrid,Vélo hybride,Hybrid-Fahrrad,Hybrid bike
+7,Bike share,Vélo libre-service,Leihfahrrad,Bike share bike
+7,E-bike,Vélo électrique,E-bike,E-bike
+7,Cruiser / City,Cruiser / vélo de ville,Cruiser / Cityrad,Cruiser / City bike
+7,Cargo,Vélo cargo,Lastenfahrrad,Cargo bike
+7,Single-speed,Vélo monovitesse (singlespeed),Singlespeed-Bike,Single-speed bike
+7,Foldable,Vélo pliable,Klappfahrrad,Foldable bike
+8,Less than 499,Moins de 499,Weniger als 499,Less than 499
+8,500 - 749,500 - 749,500 - 749,500 - 749
+8,750 - 1249,750 - 1249,750 - 1249,750 - 1249
+8,1250 - 1999,1250 - 1999,1250 - 1999,1250 - 1999
+8,2000 - 3499,2000 - 3499,2000 - 3499,2000 - 3499
+8,3500 - 4999,3500 - 4999,3500 - 4999,3500 - 4999
+8,5000 or more,5000 ou plus,5000 oder mehr,5000 or more
+9,United States,États Unis,Vereinigte Staaten,United States
+9,Canada,Canada,Kanada,Canada
+9,Netherlands,Pays-Bas,Niederlande,Netherlands
+9,France,France,Frankreich,France
+9,Germany,Allemagne,Deutschland,Germany
+9,United Kingdom,Royaume-Uni,Großbritannien,United Kingdom
+9,Belgium,Belgique,Belgium,Belgium
+9,Switzerland,Suisse,Schweiz,Switzerland
+9,Colombia,Colombie,Colombia,Colombia
+9,Danmark,Danemark,Danmark,Danmark
+9,Argentina,Argentine,Argentina,Argentina
+9,Andorra,Andorre,Andorra,Andorra
+9,Czech Republic,République Tchèque,Tschechische Republik,Czech Republic
+9,Poland,Pologne,Polen,Poland
+9,Austria,Autriche,Österreich,Austria
+9,Angola,Angola,Angola,Angola
+9,Japan,Japon,Japan,Japan
+10,NATURE,"NATURE - montagnes, forêts, etc.","NATUR - Berge, Wälder, usw.","NATURE - mountains, forests, etc."
+10,RURAL,"RURAL - village, campagne, etc.","LÄNDLICH - Dorf, Land, usw.","RURAL - village, country, etc."
+10,TOWN,"VILLE - quartier, banlieue, etc.","WOHNGEBIET - Nachbarschaft, Vorort, usw.","TOWN - neighborhood, suburban, etc."
+10,CITY,"MÉTROPOLE - urbain, dense, etc.","STADT - Großstadt, urban, dicht besiedelt usw.","CITY - urban, dense, etc."
+12,It’s more convenient,C'est plus pratique,Es ist praktischer,It’s more convenient
+12,It’s more reliable,C'est plus fiable,Es ist zuverlässiger,It’s more reliable
+12,It’s faster,C'est plus rapide,Es ist schneller,It’s faster
+12,It’s cheaper,C'est moins cher,Es ist günstiger,It’s cheaper
+12,I want to reduce my environmental impact,Je veux réduire mon impact environnemental,Ich möchte die durch mich verursachte Umweltbelastung reduzieren,I want to reduce my environmental impact
+12,I want to be healthy,Je veux être en bonne santé,Ich möchte etwas für meine Gesundheit tun,I want to be healthy
+12,I have friends/family who also bike,J'ai des amis / famille qui font aussi du vélo,"Ich habe Freunde/Familie, die ebenfalls Fahrrad fahren",I have friends/family who also bike
+12,It’s my hobby/interest,C'est mon hobby / intérêt,Es ist mein Hobby,It’s my hobby/interest
+12,It’s part of my identity/culture,Cela fait partie de mon identité / culture,Es ist Teil meiner Identität/Kultur,It’s part of my identity/culture
+12,It’s more fun,C'est plus amusant,Es macht mehr Spaß,It’s more fun
+12,other,Autre,Andere,Other
+13,The weather doesn't suit me,La météo ne me convient pas,Das Wetter passt mir nicht,The weather doesn't suit me
+13,The route is too long/steep,Le trajet est trop long / en côte,Die Strecke ist zu lang/steil,The route is too long/steep
+13,I don't know the way,Je ne connais pas le chemin,Ich weiß den Weg nicht,I don't know the way
+13,I have to carry things with me,Je dois transporter des choses avec moi,Ich muss Dinge mitnehmen / transportieren,I have to carry things with me
+13,I don't want to sweat,Je ne veux pas transpirer,Ich möchte nicht schwitzen,I don't want to sweat
+13,It's not safe for me,Ce n'est pas sécuritaire pour moi,Es ist nicht sicher für mich,It's not safe for me
+13,It's not safe for my bike,Ce n'est pas sécuritaire pour mon vélo,Es ist nicht sicher für mein Fahrrad,It's not safe for my bike
+13,I feel lazy,Je me sens paresseux,Ich bin zu faul,I feel lazy
+13,It wouldn't be fun,Ça ne serait pas amusant,Es würde mir keinen Spaß machen,It wouldn't be fun
+13,It's too dark,Il fait trop sombre,Es ist zu dunkel,It's too dark
+13,other,Autre,Andere,Other
+14,Temperate,Tempérée,Moderate Temperaturen,Temperate
+14,Hot/Humid,Chaude / humide,Heiß/Schwül,Hot/Humid
+14,Rain,Pluie,Regen,Rain
+14,Snow/Ice,Neige / verglas,Schnee / Eis,Snow/Ice
+15,SmartHalo 1,SmartHalo 1,SmartHalo 1,SmartHalo 1
+15,SmartHalo 2,SmartHalo 2,SmartHalo 2,SmartHalo 2
+15,Both,Les deux,Beide,Both
+15,don't have,Je n'ai pas de SmartHalo,Ich besitze kein SmartHalo,I don't have a SmartHalo
+16,help navigate,Pour m'aider à naviguer,Um mir bei der Navigation zu helfen,To help me navigate
+16,fitness,Pour m'aider à suivre mes objectifs de fitness,"Um mir zu helfen, meine Fitnessziele im Auge zu behalten",To help me keep track of my fitness goals
+16,environmental ,Pour m'aider à suivre mes objectifs environnementaux,"Um mir zu helfen, meine Umweltziele im Auge zu behalten",To help me keep track of my environmental goals
+16,stay safe,"Pour m'aider à rester en sécurité (lumière, itinéraires les plus sûrs)","Um mir zu helfen, sicher zu bleiben (Nachtlicht, sicherste Routen)","To help me stay safe (nightlight, safest routes)"
+16,bike safe,Pour aider à garder mon vélo en sécurité,Um mein Fahrrad zu schützen,To help keep my bike safe
+16,phone,Pour ne pas avoir à regarder mon téléphone pendant que je roule,Damit ich während der Fahrt nicht auf mein Telefon schauen muss,So I don't have to look at my phone while riding
+16,it's cool,Parce que c'est cool!,Weil es cool ist!,Because it's cool!
+16,Other,Autre,Andere,Other
+18,SmartHalo 1,J'ai soutenu SmartHalo 1,Ich habe die Crowdfunding-Kampagne für SmartHalo 1 unterstützt,I backed SmartHalo 1
+18,SmartHalo 2,J'ai soutenu SmartHalo 2,Ich habe die Crowdfunding-Kampagne für SmartHalo 2 unterstützt,I backed SmartHalo 2
+18,both,J'ai soutenu les deux,Ich habe beide Crowdfunding-Kampagnen unterstützt,I backed both
+18,didn't back,J'ai eu mon SmartHalo d'une autre manière,Ich habe meinen SmartHalo auf eine andere Weise erworben,I got my SmartHalo another way
+20,Online forums,Forums en ligne,Online-Foren,Online forums
+20,Social media,Médias sociaux,Soziale Medien,Social media
+20,e-commerce ,Amazon / ou site e-commerce,Amazon/E-Commerce-Websites,Amazon/e-commerce websites
+20,friends/family,Conversation avec amis et/ou famille,Gespräche mit Freunden oder Familie,Chats with friends or family
+20,stores/shops,Magasins de détail / boutique,Einzelhandel/Läden,Retail stores/shops
+20,blogs/influencers,Blogs spécialisés / influenceurs,Spezialisierte Blogs/Influencer,Specialized blogs/influencers
+20,Brand websites,Sites de marques,Marken-Websites,Brand websites
+20,Other,Autre,Andere,Other
