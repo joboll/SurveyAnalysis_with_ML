@@ -4,6 +4,7 @@ Back_up/
 Litterature/
 _Credentials/
 _Input/
+_Archives/
 
 #ignore all .csv files
 #*.csv 
